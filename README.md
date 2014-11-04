@@ -1,7 +1,8 @@
 Ptolemydata
 ===========
 
-Name,ID,Pleiades
+Name, ID, Pleiades
+
 Skha"ra, 1636, x
 Triokala, 1637, 462525
 Akragas, 1638, 462085
